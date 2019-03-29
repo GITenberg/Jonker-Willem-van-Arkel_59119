@@ -1,16 +1,21 @@
 _repo: Jonker-Willem-van-Arkel_59119
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Bos, Gerardus Johannes
     gutenberg_agent_id: '50310'
     url: http://www.gutenberg.org/2009/agents/50310
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Gerdes, Eduard
     gutenberg_agent_id: '50309'
     url: http://www.gutenberg.org/2009/agents/50309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59119#Jonker-Willem-van-Arkel
 gutenberg_issued: '2019-03-24'
 gutenberg_type: Text
 identifiers:
